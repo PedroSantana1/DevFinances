@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [JavaScript]
 - [HTML]
 - [CSS]
-- [LocalSorage]
+- [LocalStorage]
 
 ## 💻 Projeto
 
